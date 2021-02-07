@@ -2,8 +2,6 @@
 
 ### Hi there I'm L.A. 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my Tech Startup
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about motion graphics
