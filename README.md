@@ -2,6 +2,8 @@
 
 ### Hi there I'm L.A. 👋
 
+I'm an iOS Developer, motion graphics artist, and graphic designer. I'm currently the Social Media Producer at Dartmouth College.
+
 - 🔭 I’m currently working on my Tech Startup
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about motion graphics
