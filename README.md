@@ -7,6 +7,6 @@ I'm an iOS Developer, motion graphics artist, and graphic designer. I'm currentl
 - 👾 Founder of Nyeusi Tech LLC
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about motion graphics
-- 📫 How to reach me: IG @mr_lavisuals
+- 📫 How to reach me: IG @nyeusitech
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I interned at Disney 🏰
