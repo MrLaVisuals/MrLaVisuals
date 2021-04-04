@@ -4,7 +4,7 @@
 
 I'm an iOS Developer, motion graphics artist, and graphic designer. I'm currently the Social Media Producer at Dartmouth College.
 
-- 🔭 I’m currently working on my Tech Startup
+- 👾 Founder of Nyeusi Tech LLC
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about motion graphics
 - 📫 How to reach me: IG @mr_lavisuals
