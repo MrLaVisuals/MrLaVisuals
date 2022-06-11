@@ -2,7 +2,7 @@
 
 ### Hi there I'm L.A. 👋🏾
 
-I'm a Software Developer and a creative professional. I'm currently the Social Media Producer at Dartmouth College.
+I'm a Developer and a creative professional. I'm currently the Social Media Producer at Dartmouth College.
 
 - 👾 Founder of Nyeusi Tech LLC
 - 🌱 I’m currently learning Python
