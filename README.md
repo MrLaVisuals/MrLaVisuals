@@ -4,6 +4,6 @@
 
 I'm a Developer and a creative professional. I'm currently the Social Media Producer at Dartmouth College.
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Artifical Intelligence
 - 💬 Ask me about motion graphics
 - 📫 How to reach me: IG @mr2_wealthy
