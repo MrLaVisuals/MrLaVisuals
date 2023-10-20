@@ -2,7 +2,7 @@
 
 ### Hi there I'm L.A. 👋🏾
 
-I'm a Developer and a creative professional. I'm currently the Social Media Producer at Dartmouth College.
+I'm a developer and a creative professional. I'm currently the Social Media Producer at Dartmouth College.
 
 - 🌱 I’m currently learning Artifical Intelligence
 - 💬 Ask me about motion graphics
