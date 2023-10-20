@@ -4,9 +4,6 @@
 
 I'm a Developer and a creative professional. I'm currently the Social Media Producer at Dartmouth College.
 
-- 👾 Founder of Nyeusi Tech LLC
 - 🌱 I’m currently learning Python
 - 💬 Ask me about motion graphics
-- 📫 How to reach me: IG @nyeusitech
-- 👑 Pronouns: he/him
-- ⚡ Fun fact: I interned at Disney 🏰
+- 📫 How to reach me: IG @mr2_wealthy
